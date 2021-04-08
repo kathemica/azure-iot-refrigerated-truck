@@ -1,2 +1,2 @@
 # azure-iot-refrigerated-truck
-Azure IoT practice
+Excersice for Azure IoT capability 

@@ -1,0 +1,32 @@
+{
+  "name": "refrigerate-truck",
+  "version": "1.0.0",
+  "description": "Excersice for Azure IoT capability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathemica/azure-iot-refrigerated-truck.git"
+  },
+  "keywords": [
+    "iot",
+    "azure",
+    "practice"
+  ],
+  "author": "Katherine Aguirre",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kathemica/azure-iot-refrigerated-truck/issues"
+  },
+  "homepage": "https://github.com/kathemica/azure-iot-refrigerated-truck#readme",
+  "dependencies": {
+    "azure-iot-device": "^1.17.0",
+    "azure-iot-device-mqtt": "^1.15.0",
+    "azure-iot-provisioning-device-mqtt": "^1.7.4",
+    "azure-iot-security-symmetric-key": "^1.7.4",
+    "azure-maps-rest": "^2.0.5",
+    "chalk": "^4.1.0"
+  }
+}
